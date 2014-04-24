@@ -1,7 +1,7 @@
 apt-get update
 apt-get install -y libusb-1.0-0-dev libusb-1.0-0 libcurl4-openssl-dev libncurses5-dev libudev-dev
 
-curl http://ck.kolivas.org/apps/cgminer/3.1/cgminer-3.1.1.tar.bz2 -O
+wget http://ck.kolivas.org/apps/cgminer/3.1/cgminer-3.1.1.tar.bz2
 tar xvf cgminer-3.1.1.tar.bz2
 cd cgminer-3.1.1
 
