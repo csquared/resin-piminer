@@ -1,0 +1,12 @@
+{
+  "name": "homebot",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "preinstall":"bash install-cgminer.sh",
+    "start":"bash start-mining.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
