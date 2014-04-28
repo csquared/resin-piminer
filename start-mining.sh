@@ -1,1 +1,1 @@
-./cgminer-3.1.1/cgminer --config ./cgminer.conf -S /dev/ttyUSB0
+./cgminer-3.1.1/cgminer --config ./cgminer.conf -S /dev/ttyUSB0 -T
