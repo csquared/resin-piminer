@@ -1,5 +1,4 @@
 apt-get update
-apt-get upgrade
 apt-get install -y libusb-1.0-0-dev libusb-1.0-0 libcurl4-openssl-dev \
   libncurses5-dev libudev-dev bzip2
 
