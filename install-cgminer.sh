@@ -12,8 +12,8 @@ cat >cgminer.conf <<CGMINER_CONF
 {
   "pools" : [
     {
-      "url" : "btc.give-me-coins.com:3335 btc.give-me-coins.com:80",
-      "user" : "piminer",
+      "url" : "btc.give-me-coins.com:80",
+      "user" : "csquared.piminer",
       "pass" : "raspberry"
     }
   ],
